@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab_3</string>
+    <string name="turn_red">Red Circle Turn...</string>
+    <string name="turn_blue">Blue Cross Trun...</string>
+    <string name="win_blue">Blue Cross Win!!</string>
+    <string name="win_red">Red Circle Win!!</string>
+    <string name="wait_start">Press \\\"Start\\\" To Start A Game</string>
+    <string name="draw_game">Draw!!</string>
+</resources>
